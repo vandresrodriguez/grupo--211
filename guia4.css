@@ -8,7 +8,7 @@ su texto es verde */
 /*todos los elementos con "data-vegetable"
   y un valor exacto a  "liquid" tendran un fondo dorado */
 [data-vegetable="liquid"] {
-  background-color: goldenrod;
+  background-color: blue;
 }
 
 /* todos los elementos con "data-vegetable",
